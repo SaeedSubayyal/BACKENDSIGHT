@@ -45,13 +45,9 @@ $env:GOOGLE_OAUTH_CLIENT_SECRET=your_client_secret # same
 
 
 
-$env:OPENAI_API_KEY="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"
 
-$env:ANTHROPIC_API_KEY="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"
 
-$env:GOOGLE_API_KEY="AIzaSyDl8kCpIGQfGRKrQ-phW4SNSAXq32m_MYs"
 
-$env:PERPLEXITY_API_KEY="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"
 
 $env:REDIS_URL="redis://localhost:6379"
 
